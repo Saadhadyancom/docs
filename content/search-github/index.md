@@ -1,4 +1,4 @@
----
+---what is the common in it?
 title: Search on GitHub documentation
 intro: 'Learn how to use the search functions available on GitHub to find different types of information, like projects, people, and code.'
 introLinks:
